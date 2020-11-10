@@ -2,7 +2,7 @@
 //2. Переделать проверку победы, чтобы она не была реализована просто набором условий, например, с использованием циклов.
 
 
-package ru.geekbrains.java.javaone.classes.LessonFour;
+package ru.geekbrains.java.javaone.homework.LessonFour;
 
 import java.util.Random;
 import java.util.Scanner;
